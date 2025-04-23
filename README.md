@@ -31,7 +31,7 @@ A 2D **Pacman game with AI** built using **Python** and **Pygame**. Pacman can b
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pacman-ai.git
+git clone [https://github.com/VTHuy2203/pacman-ai.git](https://github.com/VTHuy2203/PacmanAI)
 cd pacman-ai
 
 2. Install requirements
